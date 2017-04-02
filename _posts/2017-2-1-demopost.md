@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Demo Post
-category : Intro
+category : Info
 tags : [intro, tag1, tag2]
 ---
 
