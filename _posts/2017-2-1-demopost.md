@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Demo Post
-category : Info
-tags : [intro, tag1, tag2]
+category : Test
+tags : [demo]
 ---
 
 ## Demo Post
 
-Texts here....
+blog test....
 
